@@ -1,0 +1,176 @@
+c:\users\sümer\documents\visual studio 2015\Projects\huzurevi\huzurevi\bin\Debug\huzurevi.exe
+c:\users\sümer\documents\visual studio 2015\Projects\huzurevi\huzurevi\bin\Debug\huzurevi.pdb
+c:\users\sümer\documents\visual studio 2015\Projects\huzurevi\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+c:\users\sümer\documents\visual studio 2015\Projects\huzurevi\huzurevi\obj\Debug\huzurevi.Form1.resources
+c:\users\sümer\documents\visual studio 2015\Projects\huzurevi\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+c:\users\sümer\documents\visual studio 2015\Projects\huzurevi\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+c:\users\sümer\documents\visual studio 2015\Projects\huzurevi\huzurevi\obj\Debug\huzurevi.exe
+c:\users\sümer\documents\visual studio 2015\Projects\huzurevi\huzurevi\obj\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\PROJEe\huzurevi\huzurevi\obj\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\PROJEe\huzurevi\huzurevi\obj\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\PROJEe\huzurevi\huzurevi\bin\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\PROJEe\huzurevi\huzurevi\bin\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\PROJEe\huzurevi\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+C:\Users\Sümer\Desktop\PROJEe\huzurevi\huzurevi\obj\Debug\huzurevi.Form1.resources
+C:\Users\Sümer\Desktop\PROJEe\huzurevi\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+C:\Users\Sümer\Desktop\PROJEe\huzurevi\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\Sümer\Desktop\PROJEe\huzurevi\huzurevi\obj\Debug\huzurevi.Form2.resources
+F:\PROGRAMLAR\huzurevi\huzurevi\obj\Debug\huzurevi.exe
+F:\PROGRAMLAR\huzurevi\huzurevi\obj\Debug\huzurevi.pdb
+F:\PROGRAMLAR\huzurevi\huzurevi\bin\Debug\huzurevi.exe
+F:\PROGRAMLAR\huzurevi\huzurevi\bin\Debug\huzurevi.pdb
+F:\PROGRAMLAR\huzurevi\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+F:\PROGRAMLAR\huzurevi\huzurevi\obj\Debug\huzurevi.Form1.resources
+F:\PROGRAMLAR\huzurevi\huzurevi\obj\Debug\huzurevi.Form2.resources
+F:\PROGRAMLAR\huzurevi\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+F:\PROGRAMLAR\huzurevi\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\Sümer\Desktop\huzurevi\huzurevi\obj\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\huzurevi\huzurevi\obj\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\huzurevi\huzurevi\bin\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\huzurevi\huzurevi\bin\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\huzurevi\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+C:\Users\Sümer\Desktop\huzurevi\huzurevi\obj\Debug\huzurevi.Form1.resources
+C:\Users\Sümer\Desktop\huzurevi\huzurevi\obj\Debug\huzurevi.Form2.resources
+C:\Users\Sümer\Desktop\huzurevi\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+C:\Users\Sümer\Desktop\huzurevi\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\Sümer\Desktop\Hafta-8\huzurevitest\huzurevi\obj\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\Hafta-8\huzurevitest\huzurevi\obj\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\Hafta-8\huzurevitest\huzurevi\bin\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\Hafta-8\huzurevitest\huzurevi\bin\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\Hafta-8\huzurevitest\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+C:\Users\Sümer\Desktop\Hafta-8\huzurevitest\huzurevi\obj\Debug\huzurevi.Form1.resources
+C:\Users\Sümer\Desktop\Hafta-8\huzurevitest\huzurevi\obj\Debug\huzurevi.Form2.resources
+C:\Users\Sümer\Desktop\Hafta-8\huzurevitest\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+C:\Users\Sümer\Desktop\Hafta-8\huzurevitest\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+F:\PROGRAMLAR\huzurevitest\huzurevi\bin\Debug\huzurevi.exe
+F:\PROGRAMLAR\huzurevitest\huzurevi\bin\Debug\huzurevi.pdb
+F:\PROGRAMLAR\huzurevitest\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+F:\PROGRAMLAR\huzurevitest\huzurevi\obj\Debug\huzurevi.Form1.resources
+F:\PROGRAMLAR\huzurevitest\huzurevi\obj\Debug\hu
+F:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.exe
+F:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.pdb
+F:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\bin\Debug\huzurevi.exe
+F:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\bin\Debug\huzurevi.pdb
+F:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+F:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form1.resources
+F:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form2.resources
+F:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form3.resources
+F:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+F:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.exe
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.pdb
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\bin\Debug\huzurevi.exe
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\bin\Debug\huzurevi.pdb
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form1.resources
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form2.resources
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form3.resources
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi\huzurevi\bin\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi\huzurevi\bin\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form1.resources
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form2.resources
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form3.resources
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+F:\PROGRAMLAR\DEVAAAAM\huzurevi\obj\Debug\huzurevi.exe
+F:\PROGRAMLAR\DEVAAAAM\huzurevi\obj\Debug\huzurevi.pdb
+F:\PROGRAMLAR\DEVAAAAM\huzurevi\bin\Debug\huzurevi.exe
+F:\PROGRAMLAR\DEVAAAAM\huzurevi\bin\Debug\huzurevi.pdb
+F:\PROGRAMLAR\DEVAAAAM\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+F:\PROGRAMLAR\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Form1.resources
+F:\PROGRAMLAR\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Form2.resources
+F:\PROGRAMLAR\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Form3.resources
+F:\PROGRAMLAR\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+F:\PROGRAMLAR\DEVAAAAM\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\obj\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\obj\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Form1.resources
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Form2.resources
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Form3.resources
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\bin\Debug\huzurevi.exe.config
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\bin\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\bin\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Form4.resources
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\obj\Debug\RdlCompile.cache
+C:\Users\Sümer\Desktop\DEVAAAAM\huzurevi\obj\Debug\RdlCompile.compiled
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\bin\Debug\huzurevi.exe.config
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\obj\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\obj\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\bin\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\bin\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Form1.resources
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Form2.resources
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Form3.resources
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Form4.resources
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\obj\Debug\RdlCompile.cache
+C:\Users\Sümer\Desktop\PROJEe\DEVAAAAM\huzurevi\obj\Debug\RdlCompile.compiled
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\bin\Debug\huzurevi.exe.config
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\bin\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\bin\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form1.resources
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form2.resources
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form3.resources
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Form4.resources
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\RdlCompile.cache
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi\huzurevi\obj\Debug\RdlCompile.compiled
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\bin\Debug\huzurevi.exe.config
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\bin\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\bin\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Form1.resources
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Form2.resources
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Form3.resources
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Form4.resources
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\RdlCompile.cache
+C:\Users\Sümer\Desktop\PROJEe\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\RdlCompile.compiled
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\bin\Debug\huzurevi.exe.config
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\bin\Debug\huzurevi.exe
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\bin\Debug\huzurevi.pdb
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Form1.resources
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Form2.resources
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Form3.resources
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Form4.resources
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\RdlCompile.cache
+C:\Users\Sümer\Desktop\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\RdlCompile.compiled
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\bin\Debug\huzurevi.exe.config
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.exe
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.pdb
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\bin\Debug\huzurevi.exe
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\bin\Debug\huzurevi.pdb
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.csprojResolveAssemblyReference.cache
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Form1.resources
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Form2.resources
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Form3.resources
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Form4.resources
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.Properties.Resources.resources
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.csproj.GenerateResource.Cache
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\RdlCompile.cache
+H:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\RdlCompile.compiled
+D:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\bin\Debug\huzurevi.exe.config
+D:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.exe
+D:\PROGRAMLAR\154410007_Mehmet Sümer_Huzurevi__OdaSistemi\huzurevi\obj\Debug\huzurevi.pdb
