@@ -1,6 +1,7 @@
 # Huzurevi otomasyonu
 ## C# Form Application kullanılarak yazıldı.
 ```
+   - Kullanıcı Giriş Yap ve Kayıt Ol ekranı
    - Sakin Kayıt
    - Sakin Yakını Kayıt
    - Raporlama Sistemi
